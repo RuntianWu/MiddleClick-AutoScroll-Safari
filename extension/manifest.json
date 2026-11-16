@@ -4,7 +4,7 @@
   "short_name": "AutoScroll",
   "version": "1.2.0",
   "description": "Middle-click anywhere on a page to pan and scroll it in any direction, just like classic autoscroll.",
-  "homepage_url": "https://github.com/Micropeptide/MiddleClick-AutoScroll-Safari",
+  "homepage_url": "https://github.com/RuntianWu/MiddleClick-AutoScroll-Safari",
   "icons": {
     "16": "images/icon-16.png",
     "32": "images/icon-32.png",

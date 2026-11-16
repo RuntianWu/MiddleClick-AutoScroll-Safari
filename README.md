@@ -27,7 +27,7 @@ browsers, which Safari has never supported natively.
 ## Installation
 
 Download the latest `MiddleClickAutoScroll-*.dmg` from the
-[Releases page](https://github.com/Micropeptide/MiddleClick-AutoScroll-Safari/releases),
+[Releases page](https://github.com/RuntianWu/MiddleClick-AutoScroll-Safari/releases),
 open it, and drag **Middle-Click AutoScroll** into your Applications folder.
 
 It isn't notarized by Apple, so the first time you open it, right-click (or

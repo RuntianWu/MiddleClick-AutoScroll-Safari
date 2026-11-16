@@ -9,7 +9,7 @@ const DEFAULTS = {
   lastUpdateCheck: 0,
 };
 
-const UPDATE_REPO = 'Micropeptide/MiddleClick-AutoScroll-Safari';
+const UPDATE_REPO = 'RuntianWu/MiddleClick-AutoScroll-Safari';
 const UPDATE_CHECK_COOLDOWN_MS = 20 * 60 * 60 * 1000; // ~once/day even with auto-check on
 const CURRENT_VERSION = api.runtime.getManifest().version;
 
